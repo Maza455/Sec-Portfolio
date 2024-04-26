@@ -575,11 +575,6 @@ a.hoverline:hover {
   margin-bottom: 0;
 }
 
-#contact a:not(.btn-floating) {
-  bottom: 6px;
-  left: 20px;
-  position: relative;
-}
 
 #experience .col.s12.m2 {
   text-align: center;
