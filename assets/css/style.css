@@ -742,7 +742,7 @@ small {
 }
 
 
-.flip-card {
+/* .flip-card {
   background-color: transparent;
   width: 300px;
   height: 200px;
@@ -783,4 +783,4 @@ small {
   background-color: #fff;
   color: black;
   transform: rotateY(180deg);
-}
+} */
